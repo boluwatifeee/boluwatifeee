@@ -1,16 +1,38 @@
 ## Hi there 👋
 
+I'm **Boluwatife Ladeinde**, a Software Engineer (3yrs) specializing in frontend and cloud deployment.
+
 <!--
 **boluwatifeee/boluwatifeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+---
+
+### 🚀 Skills
+- ⚛️ React.js, 🟦 TypeScript, 📜 JavaScript (ES6+)
+- 🟩 Node.js, 🚀 Express.js, 🍃 MongoDB
+- 🎨 Tailwind CSS, 💅 SASS
+- 🛠️ Git, 📦 Webpack, 📋 npm, ☁️ AWS
+
+---
+
+### 🏗️ Projects
+- [Proshop Demo](https://github.com/boluwatifeee/Proshop-demo)  
+  <sub>Full-stack MERN e-commerce app, deployed on AWS EC2 with Nginx & PM2.</sub>  
+  [🌐 Live Demo](http://13.221.163.193/)
+
+---
+
+### 📚 Currently Learning
+- 🖥️ Backend/fullstack development
+- ☁️ DevOps (cloud technologies)
+
+---
+
+### 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/boluwatife-ladeinde-4ba1a8185/)  
+- 📧 Email: [ladeindeb@gmail.com](mailto:ladeindeb@gmail.com)
+
+---
+
+ Motto: Always learning, always building. 😄
