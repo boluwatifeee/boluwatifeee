@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Boluwatife Ladeinde**, a Software Engineer (3yrs) specializing in frontend and cloud deployment.
+I'm **Boluwatife Ladeinde**, a Software Engineer specializing in full stack development and cloud deployment.
 
 <!--
 **boluwatifeee/boluwatifeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
