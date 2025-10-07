@@ -19,7 +19,7 @@ I'm **Boluwatife Ladeinde**, a Software Engineer specializing in full stack deve
 ### 🏗️ Projects
 - [Proshop Demo](https://github.com/boluwatifeee/Proshop-demo)  
   <sub>Full-stack MERN e-commerce app, deployed on AWS EC2 with Nginx & PM2.</sub>  
-  [🌐 Live Demo](http://13.221.163.193/)
+  [🌐 Live Demo](https://proshop-wgrf.onrender.com/)
 
 ---
 
