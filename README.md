@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm **Boluwatife Ladeinde**, a Software Engineer specializing in full stack development and cloud deployment.
+I'm **Boluwatife Ladeinde**, a Software Engineer with 4 years experience building production React/TypeScript applications. 
+Currently expanding into Go + PostgreSQL + GraphQL for fullstack backend.
 
 <!--
 **boluwatifeee/boluwatifeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,11 +9,11 @@ I'm **Boluwatife Ladeinde**, a Software Engineer specializing in full stack deve
 
 ---
 
-### 🚀 Skills
-- ⚛️ React.js, 🟦 TypeScript, 📜 JavaScript (ES6+)
-- 🟩 Node.js, 🚀 Express.js, 🍃 MongoDB
+### 🚀 Stack
+- ⚛️ React.js, 🟦 TypeScript, 📜 JavaScript (ES6+), Go (actively building)  
+- 🟩 Node.js, 🚀 Express.js, 🍃 MongoDB, 🔥Firebase
 - 🎨 Tailwind CSS, 💅 SASS
-- 🛠️ Git, 📦 Webpack, 📋 npm, ☁️ AWS
+- 🛠️ Git, 📦 Webpack, 📋 npm, ☁️ AWS, Jest, React Testing Library
 
 ---
 
